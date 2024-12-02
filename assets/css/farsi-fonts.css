@@ -1,0 +1,1090 @@
+@font-face {
+    font-family: "primary-font-aviny";
+    src: url("../fonts/farsi-fonts/aviny-700.eot");
+    src: url("../fonts/farsi-fonts/aviny-700.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/farsi-fonts/aviny-700.woff2") format("woff2"),
+    url("../fonts/farsi-fonts/aviny-700.woff") format("woff"),
+    url("../fonts/farsi-fonts/aviny-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-azarmehr";
+    src: url("../../fonts/farsi-fonts/azarmehr-300.eot");
+    src: url("../../fonts/farsi-fonts/azarmehr-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/azarmehr-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/azarmehr-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/azarmehr-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "primary-font-azarmehr";
+    src: url("../../fonts/farsi-fonts/azarmehr-400.eot");
+    src: url("../../fonts/farsi-fonts/azarmehr-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/azarmehr-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/azarmehr-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/azarmehr-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "primary-font-azarmehr";
+    src: url("../../fonts/farsi-fonts/azarmehr-500.eot");
+    src: url("../../fonts/farsi-fonts/azarmehr-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/azarmehr-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/azarmehr-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/azarmehr-500.ttf") format("truetype");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "primary-font-azarmehr";
+    src: url("../../fonts/farsi-fonts/azarmehr-700.eot");
+    src: url("../../fonts/farsi-fonts/azarmehr-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/azarmehr-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/azarmehr-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/azarmehr-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-damavand";
+    src: url("../../fonts/farsi-fonts/damavand-700.eot");
+    src: url("../../fonts/farsi-fonts/damavand-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/damavand-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/damavand-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/damavand-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-dana";
+    src: url("../../fonts/farsi-fonts/dana-400.eot");
+    src: url("../../fonts/farsi-fonts/dana-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/dana-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/dana-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/dana-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "primary-font-dana";
+    src: url("../../fonts/farsi-fonts/dana-700.eot");
+    src: url("../../fonts/farsi-fonts/dana-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/dana-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/dana-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/dana-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-dastnevis";
+    src: url("../../fonts/farsi-fonts/dastnevis-400.eot");
+    src: url("../../fonts/farsi-fonts/dastnevis-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/dastnevis-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/dastnevis-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/dastnevis-400.ttf") format("truetype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "primary-font-dubai";
+    src: url("../../fonts/farsi-fonts/dubai-300.eot");
+    src: url("../../fonts/farsi-fonts/dubai-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/dubai-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/dubai-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/dubai-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "primary-font-dubai";
+    src: url("../../fonts/farsi-fonts/dubai-400.eot");
+    src: url("../../fonts/farsi-fonts/dubai-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/dubai-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/dubai-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/dubai-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "primary-font-dubai";
+    src: url("../../fonts/farsi-fonts/dubai-500.eot");
+    src: url("../../fonts/farsi-fonts/dubai-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/dubai-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/dubai-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/dubai-500.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "primary-font-dubai";
+    src: url("../../fonts/farsi-fonts/dubai-700.eot");
+    src: url("../../fonts/farsi-fonts/dubai-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/dubai-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/dubai-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/dubai-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-estedad";
+    src: url("../../fonts/farsi-fonts/estedad-300.eot");
+    src: url("../../fonts/farsi-fonts/estedad-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/estedad-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/estedad-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/estedad-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "primary-font-estedad";
+    src: url("../../fonts/farsi-fonts/estedad-400.eot");
+    src: url("../../fonts/farsi-fonts/estedad-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/estedad-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/estedad-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/estedad-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "primary-font-estedad";
+    src: url("../../fonts/farsi-fonts/estedad-500.eot");
+    src: url("../../fonts/farsi-fonts/estedad-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/estedad-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/estedad-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/estedad-500.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "primary-font-estedad";
+    src: url("../../fonts/farsi-fonts/estedad-700.eot");
+    src: url("../../fonts/farsi-fonts/estedad-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/estedad-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/estedad-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/estedad-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-helvetica";
+    src: url("../../fonts/farsi-fonts/helvetica-neue-300.eot");
+    src: url("../../fonts/farsi-fonts/helvetica-neue-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/helvetica-neue-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/helvetica-neue-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/helvetica-neue-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "primary-font-helvetica";
+    src: url("../../fonts/farsi-fonts/helvetica-neue-400.eot");
+    src: url("../../fonts/farsi-fonts/helvetica-neue-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/helvetica-neue-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/helvetica-neue-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/helvetica-neue-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "primary-font-helvetica";
+    src: url("../../fonts/farsi-fonts/helvetica-neue-700.eot");
+    src: url("../../fonts/farsi-fonts/helvetica-neue-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/helvetica-neue-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/helvetica-neue-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/helvetica-neue-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-iransans";
+    src: url("../../fonts/farsi-fonts/iran-sans-300.eot");
+    src: url("../../fonts/farsi-fonts/iran-sans-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/iran-sans-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/iran-sans-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/iran-sans-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "primary-font-iransans";
+    src: url("../../fonts/farsi-fonts/iran-sans-400.eot");
+    src: url("../../fonts/farsi-fonts/iran-sans-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/iran-sans-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/iran-sans-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/iran-sans-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "primary-font-iransans";
+    src: url("../../fonts/farsi-fonts/iran-sans-500.eot");
+    src: url("../../fonts/farsi-fonts/iran-sans-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/iran-sans-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/iran-sans-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/iran-sans-500.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "primary-font-iransans";
+    src: url("../../fonts/farsi-fonts/iran-sans-700.eot");
+    src: url("../../fonts/farsi-fonts/iran-sans-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/iran-sans-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/iran-sans-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/iran-sans-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-yekan";
+    src: url("../../fonts/farsi-fonts/iran-yekan-300.eot");
+    src: url("../../fonts/farsi-fonts/iran-yekan-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/iran-yekan-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/iran-yekan-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/iran-yekan-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "primary-font-yekan";
+    src: url("../../fonts/farsi-fonts/iran-yekan-400.eot");
+    src: url("../../fonts/farsi-fonts/iran-yekan-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/iran-yekan-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/iran-yekan-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/iran-yekan-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "primary-font-yekan";
+    src: url("../../fonts/farsi-fonts/iran-yekan-500.eot");
+    src: url("../../fonts/farsi-fonts/iran-yekan-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/iran-yekan-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/iran-yekan-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/iran-yekan-500.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "primary-font-yekan";
+    src: url("../../fonts/farsi-fonts/iran-yekan-700.eot");
+    src: url("../../fonts/farsi-fonts/iran-yekan-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/iran-yekan-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/iran-yekan-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/iran-yekan-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-lalezar";
+    src: url("../../fonts/farsi-fonts/lalezar-700.eot");
+    src: url("../../fonts/farsi-fonts/lalezar-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/lalezar-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/lalezar-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/lalezar-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-mikhak";
+    src: url("../../fonts/farsi-fonts/mikhak-300.eot");
+    src: url("../../fonts/farsi-fonts/mikhak-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/mikhak-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/mikhak-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/mikhak-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "primary-font-mikhak";
+    src: url("../../fonts/farsi-fonts/mikhak-400.eot");
+    src: url("../../fonts/farsi-fonts/mikhak-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/mikhak-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/mikhak-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/mikhak-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "primary-font-mikhak";
+    src: url("../../fonts/farsi-fonts/mikhak-700.eot");
+    src: url("../../fonts/farsi-fonts/mikhak-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/mikhak-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/mikhak-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/mikhak-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-myriad";
+    src: url("../../fonts/farsi-fonts/myriad-400.eot");
+    src: url("../../fonts/farsi-fonts/myriad-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/myriad-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/myriad-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/myriad-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "primary-font-myriad";
+    src: url("../../fonts/farsi-fonts/myriad-700.eot");
+    src: url("../../fonts/farsi-fonts/myriad-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/myriad-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/myriad-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/myriad-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-noora";
+    src: url("../../fonts/farsi-fonts/noora-300.eot");
+    src: url("../../fonts/farsi-fonts/noora-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/noora-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/noora-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/noora-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "primary-font-noora";
+    src: url("../../fonts/farsi-fonts/noora-400.eot");
+    src: url("../../fonts/farsi-fonts/noora-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/noora-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/noora-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/noora-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "primary-font-noora";
+    src: url("../../fonts/farsi-fonts/noora-700.eot");
+    src: url("../../fonts/farsi-fonts/noora-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/noora-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/noora-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/noora-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-palatino";
+    src: url("../../fonts/farsi-fonts/palatino-sans-400.eot");
+    src: url("../../fonts/farsi-fonts/palatino-sans-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/palatino-sans-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/palatino-sans-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/palatino-sans-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "primary-font-palatino";
+    src: url("../../fonts/farsi-fonts/palatino-sans-700.eot");
+    src: url("../../fonts/farsi-fonts/palatino-sans-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/palatino-sans-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/palatino-sans-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/palatino-sans-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-pinar";
+    src: url("../../fonts/farsi-fonts/pinar-300.eot");
+    src: url("../../fonts/farsi-fonts/pinar-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/pinar-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/pinar-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/pinar-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "primary-font-pinar";
+    src: url("../../fonts/farsi-fonts/pinar-400.eot");
+    src: url("../../fonts/farsi-fonts/pinar-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/pinar-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/pinar-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/pinar-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "primary-font-pinar";
+    src: url("../../fonts/farsi-fonts/pinar-500.eot");
+    src: url("../../fonts/farsi-fonts/pinar-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/pinar-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/pinar-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/pinar-500.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "primary-font-pinar";
+    src: url("../../fonts/farsi-fonts/pinar-700.eot");
+    src: url("../../fonts/farsi-fonts/pinar-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/pinar-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/pinar-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/pinar-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-sahel";
+    src: url("../../fonts/farsi-fonts/sahel-300.eot");
+    src: url("../../fonts/farsi-fonts/sahel-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/sahel-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/sahel-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/sahel-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "primary-font-sahel";
+    src: url("../../fonts/farsi-fonts/sahel-400.eot");
+    src: url("../../fonts/farsi-fonts/sahel-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/sahel-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/sahel-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/sahel-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "primary-font-sahel";
+    src: url("../../fonts/farsi-fonts/sahel-700.eot");
+    src: url("../../fonts/farsi-fonts/sahel-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/sahel-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/sahel-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/sahel-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-shabnam";
+    src: url("../../fonts/farsi-fonts/shabnam-300.eot");
+    src: url("../../fonts/farsi-fonts/shabnam-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/shabnam-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/shabnam-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/shabnam-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "primary-font-shabnam";
+    src: url("../../fonts/farsi-fonts/shabnam-400.eot");
+    src: url("../../fonts/farsi-fonts/shabnam-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/shabnam-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/shabnam-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/shabnam-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "primary-font-shabnam";
+    src: url("../../fonts/farsi-fonts/shabnam-500.eot");
+    src: url("../../fonts/farsi-fonts/shabnam-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/shabnam-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/shabnam-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/shabnam-500.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "primary-font-shabnam";
+    src: url("../../fonts/farsi-fonts/shabnam-700.eot");
+    src: url("../../fonts/farsi-fonts/shabnam-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/shabnam-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/shabnam-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/shabnam-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "primary-font-vanda";
+    src: url("../../fonts/farsi-fonts/vanda-300.eot");
+    src: url("../../fonts/farsi-fonts/vanda-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/vanda-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/vanda-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/vanda-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "primary-font-vanda";
+    src: url("../../fonts/farsi-fonts/vanda-400.eot");
+    src: url("../../fonts/farsi-fonts/vanda-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/vanda-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/vanda-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/vanda-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "primary-font-vanda";
+    src: url("../../fonts/farsi-fonts/vanda-500.eot");
+    src: url("../../fonts/farsi-fonts/vanda-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/vanda-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/vanda-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/vanda-500.ttf") format("truetype");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "primary-font-vazir";
+    src: url("../../fonts/farsi-fonts/vazir-300.eot");
+    src: url("../../fonts/farsi-fonts/vazir-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/vazir-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/vazir-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/vazir-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "primary-font-vazir";
+    src: url("../../fonts/farsi-fonts/vazir-400.eot");
+    src: url("../../fonts/farsi-fonts/vazir-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/vazir-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/vazir-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/vazir-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "primary-font-vazir";
+    src: url("../../fonts/farsi-fonts/vazir-500.eot");
+    src: url("../../fonts/farsi-fonts/vazir-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/vazir-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/vazir-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/vazir-500.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "primary-font-vazir";
+    src: url("../../fonts/farsi-fonts/vazir-700.eot");
+    src: url("../../fonts/farsi-fonts/vazir-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/vazir-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/vazir-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/vazir-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-aviny";
+    src: url("../../fonts/farsi-fonts/aviny-700.eot");
+    src: url("../../fonts/farsi-fonts/aviny-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/aviny-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/aviny-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/aviny-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-azarmehr";
+    src: url("../../fonts/farsi-fonts/azarmehr-300.eot");
+    src: url("../../fonts/farsi-fonts/azarmehr-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/azarmehr-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/azarmehr-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/azarmehr-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "secondary-font-azarmehr";
+    src: url("../../fonts/farsi-fonts/azarmehr-400.eot");
+    src: url("../../fonts/farsi-fonts/azarmehr-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/azarmehr-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/azarmehr-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/azarmehr-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "secondary-font-azarmehr";
+    src: url("../../fonts/farsi-fonts/azarmehr-500.eot");
+    src: url("../../fonts/farsi-fonts/azarmehr-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/azarmehr-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/azarmehr-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/azarmehr-500.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "secondary-font-azarmehr";
+    src: url("../../fonts/farsi-fonts/azarmehr-700.eot");
+    src: url("../../fonts/farsi-fonts/azarmehr-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/azarmehr-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/azarmehr-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/azarmehr-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-dana";
+    src: url("../../fonts/farsi-fonts/dana-400.eot");
+    src: url("../../fonts/farsi-fonts/dana-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/dana-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/dana-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/dana-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "secondary-font-dana";
+    src: url("../../fonts/farsi-fonts/dana-700.eot");
+    src: url("../../fonts/farsi-fonts/dana-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/dana-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/dana-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/dana-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-dastnevis";
+    src: url("../../fonts/farsi-fonts/dastnevis-400.eot");
+    src: url("../../fonts/farsi-fonts/dastnevis-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/dastnevis-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/dastnevis-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/dastnevis-400.ttf") format("truetype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "secondary-font-dubai";
+    src: url("../../fonts/farsi-fonts/dubai-300.eot");
+    src: url("../../fonts/farsi-fonts/dubai-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/dubai-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/dubai-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/dubai-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "secondary-font-dubai";
+    src: url("../../fonts/farsi-fonts/dubai-400.eot");
+    src: url("../../fonts/farsi-fonts/dubai-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/dubai-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/dubai-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/dubai-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "secondary-font-dubai";
+    src: url("../../fonts/farsi-fonts/dubai-500.eot");
+    src: url("../../fonts/farsi-fonts/dubai-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/dubai-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/dubai-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/dubai-500.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "secondary-font-dubai";
+    src: url("../../fonts/farsi-fonts/dubai-700.eot");
+    src: url("../../fonts/farsi-fonts/dubai-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/dubai-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/dubai-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/dubai-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-estedad";
+    src: url("../../fonts/farsi-fonts/estedad-300.eot");
+    src: url("../../fonts/farsi-fonts/estedad-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/estedad-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/estedad-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/estedad-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "secondary-font-estedad";
+    src: url("../../fonts/farsi-fonts/estedad-400.eot");
+    src: url("../../fonts/farsi-fonts/estedad-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/estedad-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/estedad-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/estedad-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "secondary-font-estedad";
+    src: url("../../fonts/farsi-fonts/estedad-500.eot");
+    src: url("../../fonts/farsi-fonts/estedad-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/estedad-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/estedad-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/estedad-500.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "secondary-font-estedad";
+    src: url("../../fonts/farsi-fonts/estedad-700.eot");
+    src: url("../../fonts/farsi-fonts/estedad-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/estedad-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/estedad-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/estedad-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-helvetica";
+    src: url("../../fonts/farsi-fonts/helvetica-neue-300.eot");
+    src: url("../../fonts/farsi-fonts/helvetica-neue-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/helvetica-neue-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/helvetica-neue-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/helvetica-neue-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "secondary-font-helvetica";
+    src: url("../../fonts/farsi-fonts/helvetica-neue-400.eot");
+    src: url("../../fonts/farsi-fonts/helvetica-neue-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/helvetica-neue-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/helvetica-neue-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/helvetica-neue-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "secondary-font-helvetica";
+    src: url("../../fonts/farsi-fonts/helvetica-neue-700.eot");
+    src: url("../../fonts/farsi-fonts/helvetica-neue-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/helvetica-neue-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/helvetica-neue-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/helvetica-neue-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-iransans";
+    src: url("../../fonts/farsi-fonts/iran-sans-300.eot");
+    src: url("../../fonts/farsi-fonts/iran-sans-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/iran-sans-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/iran-sans-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/iran-sans-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "secondary-font-iransans";
+    src: url("../../fonts/farsi-fonts/iran-sans-400.eot");
+    src: url("../../fonts/farsi-fonts/iran-sans-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/iran-sans-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/iran-sans-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/iran-sans-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "secondary-font-iransans";
+    src: url("../../fonts/farsi-fonts/iran-sans-500.eot");
+    src: url("../../fonts/farsi-fonts/iran-sans-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/iran-sans-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/iran-sans-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/iran-sans-500.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "secondary-font-iransans";
+    src: url("../../fonts/farsi-fonts/iran-sans-700.eot");
+    src: url("../../fonts/farsi-fonts/iran-sans-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/iran-sans-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/iran-sans-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/iran-sans-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-yekan";
+    src: url("../../fonts/farsi-fonts/iran-yekan-300.eot");
+    src: url("../../fonts/farsi-fonts/iran-yekan-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/iran-yekan-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/iran-yekan-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/iran-yekan-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "secondary-font-yekan";
+    src: url("../../fonts/farsi-fonts/iran-yekan-400.eot");
+    src: url("../../fonts/farsi-fonts/iran-yekan-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/iran-yekan-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/iran-yekan-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/iran-yekan-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "secondary-font-yekan";
+    src: url("../../fonts/farsi-fonts/iran-yekan-500.eot");
+    src: url("../../fonts/farsi-fonts/iran-yekan-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/iran-yekan-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/iran-yekan-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/iran-yekan-500.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "secondary-font-yekan";
+    src: url("../../fonts/farsi-fonts/iran-yekan-700.eot");
+    src: url("../../fonts/farsi-fonts/iran-yekan-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/iran-yekan-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/iran-yekan-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/iran-yekan-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-lalezar";
+    src: url("../../fonts/farsi-fonts/lalezar-700.eot");
+    src: url("../../fonts/farsi-fonts/lalezar-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/lalezar-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/lalezar-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/lalezar-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-mikhak";
+    src: url("../../fonts/farsi-fonts/mikhak-300.eot");
+    src: url("../../fonts/farsi-fonts/mikhak-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/mikhak-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/mikhak-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/mikhak-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "secondary-font-mikhak";
+    src: url("../../fonts/farsi-fonts/mikhak-400.eot");
+    src: url("../../fonts/farsi-fonts/mikhak-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/mikhak-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/mikhak-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/mikhak-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "secondary-font-mikhak";
+    src: url("../../fonts/farsi-fonts/mikhak-700.eot");
+    src: url("../../fonts/farsi-fonts/mikhak-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/mikhak-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/mikhak-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/mikhak-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-myriad";
+    src: url("../../fonts/farsi-fonts/myriad-400.eot");
+    src: url("../../fonts/farsi-fonts/myriad-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/myriad-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/myriad-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/myriad-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "secondary-font-myriad";
+    src: url("../../fonts/farsi-fonts/myriad-700.eot");
+    src: url("../../fonts/farsi-fonts/myriad-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/myriad-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/myriad-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/myriad-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-noora";
+    src: url("../../fonts/farsi-fonts/noora-300.eot");
+    src: url("../../fonts/farsi-fonts/noora-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/noora-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/noora-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/noora-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "secondary-font-noora";
+    src: url("../../fonts/farsi-fonts/noora-400.eot");
+    src: url("../../fonts/farsi-fonts/noora-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/noora-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/noora-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/noora-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "secondary-font-noora";
+    src: url("../../fonts/farsi-fonts/noora-700.eot");
+    src: url("../../fonts/farsi-fonts/noora-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/noora-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/noora-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/noora-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-palatino";
+    src: url("../../fonts/farsi-fonts/palatino-sans-400.eot");
+    src: url("../../fonts/farsi-fonts/palatino-sans-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/palatino-sans-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/palatino-sans-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/palatino-sans-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "secondary-font-palatino";
+    src: url("../../fonts/farsi-fonts/palatino-sans-700.eot");
+    src: url("../../fonts/farsi-fonts/palatino-sans-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/palatino-sans-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/palatino-sans-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/palatino-sans-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-pinar";
+    src: url("../../fonts/farsi-fonts/pinar-300.eot");
+    src: url("../../fonts/farsi-fonts/pinar-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/pinar-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/pinar-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/pinar-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "secondary-font-pinar";
+    src: url("../../fonts/farsi-fonts/pinar-400.eot");
+    src: url("../../fonts/farsi-fonts/pinar-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/pinar-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/pinar-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/pinar-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "secondary-font-pinar";
+    src: url("../../fonts/farsi-fonts/pinar-500.eot");
+    src: url("../../fonts/farsi-fonts/pinar-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/pinar-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/pinar-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/pinar-500.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "secondary-font-pinar";
+    src: url("../../fonts/farsi-fonts/pinar-700.eot");
+    src: url("../../fonts/farsi-fonts/pinar-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/pinar-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/pinar-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/pinar-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-sahel";
+    src: url("../../fonts/farsi-fonts/sahel-300.eot");
+    src: url("../../fonts/farsi-fonts/sahel-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/sahel-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/sahel-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/sahel-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "secondary-font-sahel";
+    src: url("../../fonts/farsi-fonts/sahel-400.eot");
+    src: url("../../fonts/farsi-fonts/sahel-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/sahel-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/sahel-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/sahel-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "secondary-font-sahel";
+    src: url("../../fonts/farsi-fonts/sahel-700.eot");
+    src: url("../../fonts/farsi-fonts/sahel-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/sahel-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/sahel-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/sahel-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-shabnam";
+    src: url("../../fonts/farsi-fonts/shabnam-300.eot");
+    src: url("../../fonts/farsi-fonts/shabnam-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/shabnam-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/shabnam-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/shabnam-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "secondary-font-shabnam";
+    src: url("../../fonts/farsi-fonts/shabnam-400.eot");
+    src: url("../../fonts/farsi-fonts/shabnam-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/shabnam-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/shabnam-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/shabnam-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "secondary-font-shabnam";
+    src: url("../../fonts/farsi-fonts/shabnam-500.eot");
+    src: url("../../fonts/farsi-fonts/shabnam-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/shabnam-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/shabnam-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/shabnam-500.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "secondary-font-shabnam";
+    src: url("../../fonts/farsi-fonts/shabnam-700.eot");
+    src: url("../../fonts/farsi-fonts/shabnam-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/shabnam-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/shabnam-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/shabnam-700.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "secondary-font-vanda";
+    src: url("../../fonts/farsi-fonts/vanda-300.eot");
+    src: url("../../fonts/farsi-fonts/vanda-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/vanda-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/vanda-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/vanda-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "secondary-font-vanda";
+    src: url("../../fonts/farsi-fonts/vanda-400.eot");
+    src: url("../../fonts/farsi-fonts/vanda-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/vanda-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/vanda-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/vanda-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "secondary-font-vanda";
+    src: url("../../fonts/farsi-fonts/vanda-500.eot");
+    src: url("../../fonts/farsi-fonts/vanda-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/vanda-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/vanda-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/vanda-500.ttf") format("truetype");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "secondary-font-vazir";
+    src: url("../../fonts/farsi-fonts/vazir-300.eot");
+    src: url("../../fonts/farsi-fonts/vazir-300.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/vazir-300.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/vazir-300.woff") format("woff"),
+    url("../../fonts/farsi-fonts/vazir-300.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "secondary-font-vazir";
+    src: url("../../fonts/farsi-fonts/vazir-400.eot");
+    src: url("../../fonts/farsi-fonts/vazir-400.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/vazir-400.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/vazir-400.woff") format("woff"),
+    url("../../fonts/farsi-fonts/vazir-400.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "secondary-font-vazir";
+    src: url("../../fonts/farsi-fonts/vazir-500.eot");
+    src: url("../../fonts/farsi-fonts/vazir-500.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/vazir-500.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/vazir-500.woff") format("woff"),
+    url("../../fonts/farsi-fonts/vazir-500.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "secondary-font-vazir";
+    src: url("../../fonts/farsi-fonts/vazir-700.eot");
+    src: url("../../fonts/farsi-fonts/vazir-700.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/farsi-fonts/vazir-700.woff2") format("woff2"),
+    url("../../fonts/farsi-fonts/vazir-700.woff") format("woff"),
+    url("../../fonts/farsi-fonts/vazir-700.ttf") format("truetype");
+    font-weight: 700;
+}
